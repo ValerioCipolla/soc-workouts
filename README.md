@@ -1,5 +1,8 @@
 # soc-workouts
-SchoolOfCode workouts/energizer
+Disclaimer:
+This is a collection of exercises with video references from Youtube. If you choose to perform any of this workouts or exercises you do so at your own risk. Like with any physical activity, this is potentially dangerous and you should take every care not to hurt yourself or injure yourself. The creator of this collection has no responsibility of a potential injury.
+
+## SchoolOfCode workouts/energizer
 
 the workouts will last approximately 15 minutes.
 Do each exercise for 60 seconds, no breaks between exercises (or a very short one to get set up before the next), after the 4th execise take a 30-60 seconds break. Repeat 3 times.
